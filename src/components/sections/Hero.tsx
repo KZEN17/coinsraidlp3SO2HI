@@ -28,7 +28,7 @@ export default function Hero() {
         />
         <img
           src={welcomeBonus}
-          alt="Welcome Bonus"
+          alt="Special Offer"
           className="absolute inset-x-0 top-0 z-10 w-full px-4"
         />
         <div className="absolute inset-x-0 top-[13%] z-10 flex flex-col items-center px-6">
@@ -65,7 +65,7 @@ export default function Hero() {
 
         <img
           src={welcomeBonus}
-          alt="Welcome Bonus"
+          alt="Special Offer"
           className="absolute left-1/2 top-[6.28%] z-10 w-[34.74%] -translate-x-1/2"
         />
 
